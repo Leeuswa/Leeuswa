@@ -1,4 +1,4 @@
-<div align="center">
+><div align="center">
 
 # 안녕하세요, 백엔드 개발자 이수환입니다 👋
 
@@ -33,6 +33,4 @@ Java와 Spring Boot로 안정적인 서버와 REST API를 설계합니다
 
 ## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leeuswa&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeuswa&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
+<img src="https://streak-stats.demolab.com?user=Leeuswa&theme=tokyonight&hide_border=true" />
